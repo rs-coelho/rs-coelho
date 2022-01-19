@@ -6,9 +6,8 @@
 </a>
 
 <!--
-**rs-coelho/rs-coelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**rs-coelho/rs-coelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+Hi, there! I'm Rodrigo Coelho, I am a Computer Engineering Undergradute currently focusing in software engineering and agile methods.
 
 - 🔭 I’m currently working on backend implementations with python, but most of that work was done in codecommit
 - 🌱 I’m currently learning Scrum related methods and how to create bot with python
